@@ -23,7 +23,7 @@ TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransName[1]=Перевод на карту *5136
 TransType[1]=Переводы
-TransAmount[1]=–40 123 ₽
+TransAmount[1]=–40 100 ₽
 TransIcon[1]=s_TransIcon_TBank
 
 TransDate[2]=19 сентября, пт
@@ -80,3 +80,4 @@ TransType[10]=Возврат
 TransAmount[10]=+8 015 ₽
 
 TransIcon[10]=s_TransIcon_Ozon
+
