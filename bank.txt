@@ -1,12 +1,12 @@
-LoginName=Владимир
-MainName=Владимир С.
-ProfileName=Владимир Соловьев
-Balance=230 051 ₽
-CardLast4=8380
-ProfilePhone=+7 495 384 27 59
-ProfileEmail=solvladimir1986@yandex.com
+LoginName=Ранис
+MainName=Ранис Ф.
+ProfileName=Ранис Фирстов
+Balance=194 980 ₽
+CardLast4=1870
+ProfilePhone=+7 495 480 83 91
+ProfileEmail=ranisprogamer12@yandex.com
 Month=Сентябрь
-MonthBalanceOut=134 124 ₽
+MonthBalanceOut=201 802 ₽
 MonthBalanceIn=0 ₽
 ToCardLast4=2260
 ToCardFee=401
@@ -17,67 +17,65 @@ ToCardIcon=s_CardIcon_Mir
 TransDate[0]=Сегодня
 TransName[0]=Комиссия за перевод на карту
 TransType[0]=Комиссия
-TransAmount[0]=–401 ₽
+TransAmount[0]=–750 ₽
 TransIcon[0]=s_TransIcon_Fee
 
 TransDate[1]=Сегодня
-TransName[1]=Перевод на карту *2260
+TransName[1]=Перевод на карту *6568
 TransType[1]=Переводы
-TransAmount[1]=–40 100 ₽
+TransAmount[1]=–75 000 ₽
 TransIcon[1]=s_TransIcon_Yandex
 
-TransDate[2]=19 сентября, пт
+TransDate[2]=21 сентября, сб
 TransName[2]=Ozon
 TransType[2]=Покупка
-TransAmount[2]=–24 813 ₽
+TransAmount[2]=–25 184 ₽
 TransIcon[2]=s_TransIcon_Ozon
 
-TransDate[3]=16 сентября, вт
-TransName[3]=Ozon
-TransType[3]=Покупка
-TransAmount[3]=–31 420 ₽
+TransDate[3]=18 сентября, ср
+TransName[3]=Возврат средств
+TransType[3]=Возврат
+TransAmount[3]=+9 873 ₽
 TransIcon[3]=s_TransIcon_Ozon
 
-TransDate[4]=7 сентября, вс
-TransName[4]=Ozon
-TransType[4]=Покупка
-TransAmount[4]=–37 367 ₽
-TransIcon[4]=s_TransIcon_Ozon
+TransDate[4]=15 сентября, вс
+TransName[4]=Андрей Викторович К.
+TransType[4]=Переводы
+TransAmount[4]=–51 920 ₽
+TransIcon[4]=s_TransIcon_TBank_SBP
 
-TransDate[5]=29 августа, пт
-TransName[5]=Шухрат Абдуллаевич И.
-TransType[5]=Переводы
-TransAmount[5]=–35 500 ₽
-TransIcon[5]=s_TransIcon_TBank_SBP
+TransDate[5]=14 сентября, сб
+TransName[5]=Ozon
+TransType[5]=Покупка
+TransAmount[5]=–32 407 ₽
+TransIcon[5]=s_TransIcon_Ozon
 
-TransDate[6]=25 августа, пн
-TransName[6]=Сергей Андреевич Б.
+TransDate[6]=10 сентября, вт
+TransName[6]=Марина Олеговна Ч.
 TransType[6]=Переводы
-TransAmount[6]=–80 100 ₽
+TransAmount[6]=–38 560 ₽
 TransIcon[6]=s_TransIcon_TBank_SBP
 
-TransDate[7]=24 августа, вс
+TransDate[7]=7 сентября, сб
 TransName[7]=Возврат средств
 TransType[7]=Возврат
-TransAmount[7]=+7 916 ₽
+TransAmount[7]=+12 146 ₽
 TransIcon[7]=s_TransIcon_Ozon
 
-TransDate[8]=22 августа, пт
+TransDate[8]=28 августа, ср
 TransName[8]=Ozon
 TransType[8]=Покупка
-TransAmount[8]=–5 993 ₽
+TransAmount[8]=–20 338 ₽
 TransIcon[8]=s_TransIcon_Ozon
 
-TransDate[9]=12 августа, вт
-TransName[9]=Возврат средств
-TransType[9]=Возврат
-TransAmount[9]=+20 782 ₽
-TransIcon[9]=s_TransIcon_Ozon
+TransDate[9]=20 августа, вт
+TransName[9]=Пётр Николаевич Ж.
+TransType[9]=Переводы
+TransAmount[9]=–44 275 ₽
+TransIcon[9]=s_TransIcon_TBank_SBP
 
-TransDate[10]=11 августа, пн
+TransDate[10]=15 августа, чт
 TransName[10]=Возврат средств
 TransType[10]=Возврат
-TransAmount[10]=+8 015 ₽
+TransAmount[10]=+6 584 ₽
 TransIcon[10]=s_TransIcon_Ozon
-
-
