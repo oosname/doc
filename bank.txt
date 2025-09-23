@@ -78,8 +78,4 @@ TransDate[10]=11 августа, пн
 TransName[10]=Возврат средств
 TransType[10]=Возврат
 TransAmount[10]=+8 015 ₽
-
 TransIcon[10]=s_TransIcon_Ozon
-
-
-
