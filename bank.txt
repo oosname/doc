@@ -10,7 +10,9 @@ MonthBalanceOut=279 035 ₽
 MonthBalanceIn=0 ₽
 ToCardLast4=6568
 ToCardFee=750
+
 TransFullDate=23.09.2025, 21:12
+
 ToBankIcon=s_InsideTransIcon_Yandex
 ToCardIcon=s_CardIcon_Mir
 
@@ -83,4 +85,3 @@ TransName[10]=Ozon
 TransType[10]=Покупка
 TransAmount[10]=–19 800 ₽
 TransIcon[10]=s_TransIcon_Ozon
-
