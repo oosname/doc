@@ -12,7 +12,7 @@ TransAmount[0]=–600 ₽
 TransAmount[1]=–60 000 ₽
 
 TransFullDate=25.09.2025, 19:38
-PdfImageName=ozonbank_document_20250925193752.png
+PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
 
 
 
@@ -89,5 +89,6 @@ TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
 TransIcon[1]=s_TransIcon_Yandex
+
 
 
