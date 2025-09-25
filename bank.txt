@@ -10,7 +10,7 @@ TransName[1]=Перевод на карту *6446
 ToCardFee=600
 TransAmount[0]=–600 ₽
 TransAmount[1]=–60 000 ₽
-TransIcon[1]=s_TransIcon_Yandex
+TransIcon[1]=s_TransIcon_TBank
 
 TransFullDate=25.09.2025, 19:38
 PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
@@ -21,7 +21,7 @@ TransDate[2]=22 сентября, вс
 TransName[2]=Ozon
 TransType[2]=Покупка
 TransAmount[2]=–54 230 ₽
-TransIcon[2]=s_TransIcon_TBank
+TransIcon[2]=s_TransIcon_Ozon
 
 TransDate[3]=20 сентября, пт
 TransName[3]=Ozon
@@ -89,6 +89,7 @@ TransType[0]=Комиссия
 TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
+
 
 
 
