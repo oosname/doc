@@ -21,7 +21,7 @@ TransDate[2]=22 сентября, вс
 TransName[2]=Ozon
 TransType[2]=Покупка
 TransAmount[2]=–54 230 ₽
-TransIcon[2]=s_TransIcon_Ozon
+TransIcon[2]=s_TransIcon_TBank
 
 TransDate[3]=20 сентября, пт
 TransName[3]=Ozon
@@ -89,6 +89,7 @@ TransType[0]=Комиссия
 TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
+
 
 
 
