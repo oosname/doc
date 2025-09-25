@@ -12,7 +12,7 @@ ToCardLast4=6446
 ToCardFee=1200
 
 TransFullDate=24.09.2025, 06:48
-PdfImageName=.png
+PdfImageName=doc.png
 
 ToBankIcon=s_InsideTransIcon_Yandex
 ToCardIcon=s_CardIcon_Mir
@@ -83,6 +83,7 @@ TransName[10]=Ozon
 TransType[10]=Покупка
 TransAmount[10]=–29 183 ₽
 TransIcon[10]=s_TransIcon_Ozon
+
 
 
 
