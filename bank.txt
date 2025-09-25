@@ -17,6 +17,10 @@ PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
 
 
 
+
+
+
+
 TransDate[2]=22 сентября, вс
 TransName[2]=Ozon
 TransType[2]=Покупка
@@ -89,6 +93,7 @@ TransType[0]=Комиссия
 TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
+
 
 
 
