@@ -3,13 +3,16 @@ MainName=Игнат И.
 Balance=520 719 ₽
 CardLast4=3794
 MonthBalanceOut=295 902 ₽
+
 ToCardLast4=6446
+TransName[1]=Перевод на карту *6446
+
 ToCardFee=1200
+TransAmount[0]=–1200 ₽
+TransAmount[1]=–120 000 ₽
+
 TransFullDate=24.09.2025, 06:48
 PdfImageName=doc.png
-TransAmount[0]=–1200 ₽
-TransName[1]=Перевод на карту *6446
-TransAmount[1]=–120 000 ₽
 
 
 
@@ -86,3 +89,4 @@ TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
 TransIcon[1]=s_TransIcon_Yandex
+
