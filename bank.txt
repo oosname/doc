@@ -1,21 +1,12 @@
 LoginName=Игнат
 MainName=Игнат И.
-ProfileName=Игнат Иванов
 Balance=520 719 ₽
 CardLast4=3794
-ProfilePhone=+7 495 384 27 59
-ProfileEmail=solvladimir1986@yandex.com
-Month=Сентябрь
 MonthBalanceOut=295 902 ₽
-MonthBalanceIn=0 ₽
 ToCardLast4=6446
 ToCardFee=1200
-
 TransFullDate=24.09.2025, 06:48
 PdfImageName=doc.png
-
-ToBankIcon=s_InsideTransIcon_Yandex
-ToCardIcon=s_CardIcon_Mir
 
 TransDate[0]=Сегодня
 TransName[0]=Комиссия за перевод на карту
@@ -28,6 +19,7 @@ TransName[1]=Перевод на карту *6446
 TransType[1]=Переводы
 TransAmount[1]=–120 000 ₽
 TransIcon[1]=s_TransIcon_Yandex
+
 
 
 TransDate[2]=22 сентября, вс
@@ -88,3 +80,11 @@ TransIcon[10]=s_TransIcon_Ozon
 
 
 
+
+Month=Сентябрь
+MonthBalanceIn=0 ₽
+ProfileName=Игнат Иванов
+ProfilePhone=+7 495 384 27 59
+ProfileEmail=solvladimir1986@yandex.com
+ToBankIcon=s_InsideTransIcon_Yandex
+ToCardIcon=s_CardIcon_Mir
