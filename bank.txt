@@ -11,6 +11,7 @@ ToCardFee=600
 TransAmount[0]=–600 ₽
 TransAmount[1]=–60 000 ₽
 TransIcon[1]=s_TransIcon_TBank
+ToBankIcon=s_InsideTransIcon_TBank
 
 TransFullDate=25.09.2025, 19:38
 PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
@@ -82,7 +83,6 @@ MonthBalanceIn=0 ₽
 ProfileName=Игнат Иванов
 ProfilePhone=+7 495 384 27 59
 ProfileEmail=solvladimir1986@yandex.com
-ToBankIcon=s_InsideTransIcon_Yandex
 ToCardIcon=s_CardIcon_Mir
 TransDate[0]=Сегодня
 TransName[0]=Комиссия за перевод на карту
@@ -90,6 +90,7 @@ TransType[0]=Комиссия
 TransIcon[0]=s_TransIcon_Fee
 TransDate[1]=Сегодня
 TransType[1]=Переводы
+
 
 
 
