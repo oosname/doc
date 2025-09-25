@@ -7,18 +7,9 @@ ToCardLast4=6446
 ToCardFee=1200
 TransFullDate=24.09.2025, 06:48
 PdfImageName=doc.png
-
-TransDate[0]=Сегодня
-TransName[0]=Комиссия за перевод на карту
-TransType[0]=Комиссия
 TransAmount[0]=–1200 ₽
-TransIcon[0]=s_TransIcon_Fee
-
-TransDate[1]=Сегодня
 TransName[1]=Перевод на карту *6446
-TransType[1]=Переводы
 TransAmount[1]=–120 000 ₽
-TransIcon[1]=s_TransIcon_Yandex
 
 
 
@@ -88,3 +79,10 @@ ProfilePhone=+7 495 384 27 59
 ProfileEmail=solvladimir1986@yandex.com
 ToBankIcon=s_InsideTransIcon_Yandex
 ToCardIcon=s_CardIcon_Mir
+TransDate[0]=Сегодня
+TransName[0]=Комиссия за перевод на карту
+TransType[0]=Комиссия
+TransIcon[0]=s_TransIcon_Fee
+TransDate[1]=Сегодня
+TransType[1]=Переводы
+TransIcon[1]=s_TransIcon_Yandex
