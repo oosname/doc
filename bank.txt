@@ -1,7 +1,7 @@
 LoginName=Алина
 MainName=Алина М.
 ProfileName=Алина Морозова
-Balance=11 952 ₽
+Balance=11 952
 CardLast4=2840
 ProfilePhone=+7 495 384 27 59
 ProfileEmail=morozalinaci08@yandex.ru
@@ -93,4 +93,5 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
