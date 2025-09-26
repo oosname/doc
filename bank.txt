@@ -12,7 +12,7 @@ TransFullDate=26.09.2025, 18:38
 ToBankNumber=+7 (927) 350-17-79
 ToBankIcon=s_InsideTransIcon_Yandex_SBP
 ToBankName=Яндекс
-PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
+PdfImageName=doc.png
 
 TransDate[0]=Сегодня
 TransName[0]=Венера Кимовна Р.
@@ -93,5 +93,6 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
 
