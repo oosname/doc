@@ -11,7 +11,7 @@ MonthBalanceIn=0 ₽
 ToCardLast4=2260
 ToCardFee=401
 TransFullDate=23.09.2025, 18:38
-ToBankIcon=s_InsideTransIcon_Yandex
+ToBankIcon=s_InsideTransIcon_Yandex_SBP
 ToCardIcon=s_CardIcon_Mir
 
 PdfImageName=Screenshot_20250925-194444_Просмотр PDF.png
@@ -84,6 +84,7 @@ TransName[10]=Возврат средств
 TransType[10]=Возврат
 TransAmount[10]=+8 015 ₽
 TransIcon[10]=s_TransIcon_Ozon
+
 
 
 
