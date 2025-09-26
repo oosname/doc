@@ -6,8 +6,8 @@ CardLast4=2840
 ProfilePhone=+7 495 384 27 59
 ProfileEmail=morozalinaci08@yandex.ru
 Month=Сентябрь
-MonthBalanceOut=157 875
-MonthBalanceIn=12 048
+MonthBalanceOut=159 559
+MonthBalanceIn=15 509
 TransFullDate=26.09.2025, 18:38
 ToBankNumber=+7 (927) 350-17-79
 ToBankIcon=s_InsideTransIcon_Yandex_SBP
@@ -93,3 +93,4 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
