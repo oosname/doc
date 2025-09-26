@@ -20,10 +20,10 @@ ToBankName=Яндекс
 ToBankNumber=+7 (927) 350-17-79
 
 TransDate[0]=Сегодня
-TransName[0]=Комиссия за перевод на карту
-TransType[0]=Комиссия
-TransAmount[0]=–401 ₽
-TransIcon[0]=s_TransIcon_Fee
+TransName[0]=Венера Кимовна Р.
+TransType[0]=Переводы
+TransAmount[0]=–10 ₽
+TransIcon[0]=s_TransIcon_Yandex_SBP
 
 TransDate[1]=Сегодня
 TransName[1]=Перевод на карту *2260
@@ -84,6 +84,7 @@ TransName[10]=Возврат средств
 TransType[10]=Возврат
 TransAmount[10]=+8 015 ₽
 TransIcon[10]=s_TransIcon_Ozon
+
 
 
 
