@@ -1,6 +1,6 @@
-LoginName=Алина
-MainName=Алина М.
-ProfileName=Алина Морозова
+LoginName=Василий
+MainName=Василий Б.
+ProfileName=Василий Борисов
 Balance=11 952
 CardLast4=2840
 ProfilePhone=+7 495 384 27 59
@@ -93,6 +93,7 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
 
 
