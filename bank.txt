@@ -1,6 +1,6 @@
 LoginName=Василий
 MainName=Василий Б.
-ProfileName=Василий Борисов
+ProfileName=Василий Бочаров
 Balance=11 952
 CardLast4=2840
 ProfilePhone=+7 495 384 27 59
@@ -8,11 +8,11 @@ ProfileEmail=morozalinaci08@yandex.ru
 Month=Сентябрь
 MonthBalanceOut=119 559
 MonthBalanceIn=15 509
-TransFullDate=27.09.2025, 18:38
+TransFullDate=27.09.2025, 21:23
 ToBankNumber=+7 (985) 620-03-52
 ToBankIcon=s_InsideTransIcon_YouMoney_SBP
 ToBankName=ЮМани
-PdfImageName=doc.png
+PdfImageName=doc2.png
 
 TransDate[0]=Сегодня
 TransName[0]=Карина Анатольевна Р.
@@ -93,6 +93,7 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
 
 
