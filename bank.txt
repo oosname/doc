@@ -32,7 +32,7 @@ TransType[2]=Возврат
 TransAmount[2]=12 630
 TransIcon[2]=s_TransIcon_Ozon
 
-TransDate[3]=22 сентября, пн
+TransDate[3]=23 сентября, вс
 TransName[3]=Ozon
 TransType[3]=Покупка
 TransAmount[3]=980
@@ -93,6 +93,7 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
 
 
