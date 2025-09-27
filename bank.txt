@@ -6,19 +6,19 @@ CardLast4=2840
 ProfilePhone=+7 495 384 27 59
 ProfileEmail=morozalinaci08@yandex.ru
 Month=Сентябрь
-MonthBalanceOut=159 559
+MonthBalanceOut=119 559
 MonthBalanceIn=15 509
-TransFullDate=26.09.2025, 18:38
-ToBankNumber=+7 (927) 350-17-79
-ToBankIcon=s_InsideTransIcon_Yandex_SBP
-ToBankName=Яндекс
+TransFullDate=27.09.2025, 18:38
+ToBankNumber=+7 (985) 620-03-52
+ToBankIcon=s_InsideTransIcon_YouMoney_SBP
+ToBankName=ЮМани
 PdfImageName=doc.png
 
 TransDate[0]=Сегодня
-TransName[0]=Венера Кимовна Р.
+TransName[0]=Карина Анатольевна Р.
 TransType[0]=Переводы
-TransAmount[0]=120 000
-TransIcon[0]=s_TransIcon_Yandex_SBP
+TransAmount[0]=80 000
+TransIcon[0]=s_TransIcon_YouMoney_SBP
 
 TransDate[1]=Вчера
 TransName[1]=Алексей Петрович С.
@@ -93,6 +93,7 @@ CardTransfer=0
 ToCardLast4=0000
 ToCardFee=0
 ToCardIcon=s_CardIcon_Mir
+
 
 
 
